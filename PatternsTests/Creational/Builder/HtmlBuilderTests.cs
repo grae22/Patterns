@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using Patterns.Creational.Builder;
 
-namespace PatternsTests.Builder
+namespace PatternsTests.Creational.Builder
 {
   [TestFixture]
   public class HtmlBuilderTests
