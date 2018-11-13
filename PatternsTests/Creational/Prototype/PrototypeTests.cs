@@ -43,6 +43,5 @@ namespace PatternsTests.Creational.Prototype
       Assert.IsInstanceOf<MonochromeImage>(newImage);
       Assert.AreEqual(initialImage.BackgroundColour, newImage.BackgroundColour);
     }
-
   }
 }
