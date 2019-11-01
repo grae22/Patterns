@@ -68,6 +68,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structural\Bridge\Client.cs" />
     <Compile Include="Structural\Composite\Client.cs" />
+    <Compile Include="Structural\Decorator\Client.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
