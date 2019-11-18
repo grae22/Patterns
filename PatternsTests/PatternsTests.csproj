@@ -71,6 +71,7 @@
     <Compile Include="Structural\Decorator\Client.cs" />
     <Compile Include="Structural\Flyweight\Client.cs" />
     <Compile Include="Structural\Facade\Client.cs" />
+    <Compile Include="Structural\Proxy\Client.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
