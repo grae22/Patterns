@@ -59,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioural\ChainOfResponsibility\Client.cs" />
     <Compile Include="Creational\Builder\HtmlBuilderTests.cs" />
     <Compile Include="Creational\AbstractFactory\AbstractFactoryTests.cs" />
     <Compile Include="Creational\FactoryMethod\ColourTests.cs" />
